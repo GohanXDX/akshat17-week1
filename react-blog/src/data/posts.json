@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "10 Beautiful Places to Visit in Varanasi",
+    "excerpt": "Explore ancient ghats, peaceful temples, and colorful streets that make Varanasi a timeless destination.",
+    "category": "Travel",
+    "date": "2026-01-12"
+  },
+  {
+    "id": 2,
+    "title": "The Magic of Watching Sunrise at Assi Ghat",
+    "excerpt": "Experience peaceful mornings, boat rides, and golden sunrise views along the Ganges.",
+    "category": "Destinations",
+    "date": "2026-01-14"
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Hill Stations to Visit in India",
+    "excerpt": "Discover beautiful mountain destinations filled with cool weather, scenic valleys, and breathtaking landscapes.",
+    "category": "Travel",
+    "date": "2026-01-16"
+  },
+  {
+    "id": 4,
+    "title": "Exploring the Beauty of Manali in Winter",
+    "excerpt": "Discover snow-covered mountains, cozy cafes, and unforgettable winter experiences in Manali.",
+    "category": "Adventure",
+    "date": "2026-01-18"
+  },
+  {
+    "id": 5,
+    "title": "A Complete Travel Guide to Jaipur",
+    "excerpt": "Visit royal palaces, colorful markets, historic forts, and traditional restaurants in the Pink City.",
+    "category": "Travel",
+    "date": "2026-01-20"
+  },
+  {
+    "id": 6,
+    "title": "The Most Instagrammable Places in Udaipur",
+    "excerpt": "Capture stunning lake views, royal architecture, rooftop cafes, and unforgettable sunset moments.",
+    "category": "Photography",
+    "date": "2026-01-22"
+  },
+  {
+    "id": 7,
+    "title": "Hidden Waterfalls You Must Explore in India",
+    "excerpt": "Find peaceful waterfalls surrounded by forests, rocky trails, and untouched natural beauty.",
+    "category": "Destinations",
+    "date": "2026-01-24"
+  },
+  {
+    "id": 8,
+    "title": "Street Food Adventures You Cannot Miss in Delhi",
+    "excerpt": "Taste delicious chaat, spicy momos, crispy parathas, and local favorites across Delhi's food streets.",
+    "category": "Food & Culture",
+    "date": "2026-01-26"
+  },
+  {
+    "id": 9,
+    "title": "A Weekend Escape to Rishikesh",
+    "excerpt": "Enjoy river rafting, riverside cafes, peaceful yoga sessions, and beautiful Himalayan views.",
+    "category": "Adventure",
+    "date": "2026-01-28"
+  },
+  {
+    "id": 10,
+    "title": "Exploring the Ancient Temples of Khajuraho",
+    "excerpt": "Discover remarkable stone carvings, historic temples, and fascinating architectural heritage.",
+    "category": "Destinations",
+    "date": "2026-01-30"
+  },
+  {
+    "id": 11,
+    "title": "Best Beaches to Visit in Goa",
+    "excerpt": "Explore golden sands, beautiful sunsets, lively beach towns, and relaxing coastal escapes.",
+    "category": "Travel",
+    "date": "2026-02-01"
+  },
+  {
+    "id": 12,
+    "title": "A Traveler's Guide to the Streets of Lucknow",
+    "excerpt": "Walk through historic markets, explore grand architecture, and experience the famous hospitality of Lucknow.",
+    "category": "Travel",
+    "date": "2026-02-03"
+  },
+  {
+    "id": 13,
+    "title": "The Best Places to Watch Sunset in India",
+    "excerpt": "Discover scenic viewpoints, peaceful lakes, and coastal locations perfect for unforgettable sunset views.",
+    "category": "Photography",
+    "date": "2026-02-05"
+  },
+  {
+    "id": 14,
+    "title": "Camping Under the Stars in Spiti Valley",
+    "excerpt": "Experience remote mountain landscapes, star-filled skies, and peaceful nights in the Himalayan wilderness.",
+    "category": "Adventure",
+    "date": "2026-02-07"
+  },
+  {
+    "id": 15,
+    "title": "10 Unique Cafes with Beautiful Views",
+    "excerpt": "Discover cozy cafes overlooking mountains, rivers, city skylines, and charming streets.",
+    "category": "Food & Culture",
+    "date": "2026-02-09"
+  },
+  {
+    "id": 16,
+    "title": "Why Kerala Should Be on Your Travel Bucket List",
+    "excerpt": "Explore tranquil backwaters, lush tea gardens, tropical beaches, and traditional Kerala experiences.",
+    "category": "Destinations",
+    "date": "2026-02-11"
+  },
+  {
+    "id": 17,
+    "title": "The Beauty of Meghalaya's Living Root Bridges",
+    "excerpt": "Discover incredible natural bridges, misty forests, and unique landscapes hidden in Northeast India.",
+    "category": "Destinations",
+    "date": "2026-02-13"
+  },
+  {
+    "id": 18,
+    "title": "How to Plan a Budget-Friendly Trip to Agra",
+    "excerpt": "Explore the Taj Mahal, local markets, and historic attractions without spending more than necessary.",
+    "category": "Travel",
+    "date": "2026-02-15"
+  },
+  {
+    "id": 19,
+    "title": "Exploring India's Most Beautiful Lakes",
+    "excerpt": "Discover peaceful mountain lakes and stunning waterfronts surrounded by natural beauty.",
+    "category": "Destinations",
+    "date": "2026-02-17"
+  },
+  {
+    "id": 20,
+    "title": "A Journey Through the Colorful Markets of Jodhpur",
+    "excerpt": "Experience vibrant bazaars, traditional handicrafts, local food, and the blue streets of Rajasthan.",
+    "category": "Food & Culture",
+    "date": "2026-02-19"
+  },
+  {
+    "id": 21,
+    "title": "Top Places to Visit During a Trip to Sikkim",
+    "excerpt": "Explore mountain monasteries, alpine lakes, scenic roads, and spectacular Himalayan views.",
+    "category": "Travel",
+    "date": "2026-02-21"
+  },
+  {
+    "id": 22,
+    "title": "The Ultimate Guide to a First-Time Solo Trip",
+    "excerpt": "Learn how to choose destinations, plan your itinerary, manage your budget, and travel independently.",
+    "category": "Travel",
+    "date": "2026-02-23"
+  },
+  {
+    "id": 23,
+    "title": "Discovering the Peaceful Beauty of Auroville",
+    "excerpt": "Explore green spaces, creative communities, peaceful surroundings, and unique architecture near Pondicherry.",
+    "category": "Destinations",
+    "date": "2026-02-25"
+  },
+  {
+    "id": 24,
+    "title": "The Most Beautiful Forts in Rajasthan",
+    "excerpt": "Step into royal history through magnificent forts, impressive gateways, and spectacular desert views.",
+    "category": "Destinations",
+    "date": "2026-02-27"
+  },
+  {
+    "id": 25,
+    "title": "A Food Lover's Guide to Amritsar",
+    "excerpt": "Discover traditional Punjabi flavors, famous street food, and the unforgettable atmosphere of local eateries.",
+    "category": "Food & Culture",
+    "date": "2026-03-01"
+  },
+  {
+    "id": 26,
+    "title": "Exploring the Scenic Beauty of Coorg",
+    "excerpt": "Visit coffee plantations, misty hills, forest trails, and peaceful homestays in Karnataka.",
+    "category": "Destinations",
+    "date": "2026-03-03"
+  },
+  {
+    "id": 27,
+    "title": "Best Road Trips to Take with Your Friends",
+    "excerpt": "Discover scenic highways, mountain routes, and memorable road trip destinations for your next group adventure.",
+    "category": "Adventure",
+    "date": "2026-03-05"
+  },
+  {
+    "id": 28,
+    "title": "A Visual Journey Through the Streets of Old Delhi",
+    "excerpt": "Capture historic doorways, bustling bazaars, colorful buildings, and everyday life in Old Delhi.",
+    "category": "Photography",
+    "date": "2026-03-07"
+  },
+  {
+    "id": 29,
+    "title": "Exploring the Magical Landscapes of Ladakh",
+    "excerpt": "Discover dramatic mountain passes, turquoise lakes, ancient monasteries, and Himalayan scenery.",
+    "category": "Adventure",
+    "date": "2026-03-09"
+  },
+  {
+    "id": 30,
+    "title": "Five Peaceful Places for a Digital Detox",
+    "excerpt": "Escape crowded cities and discover quiet destinations where you can reconnect with nature.",
+    "category": "Destinations",
+    "date": "2026-03-11"
+  },
+  {
+    "id": 31,
+    "title": "A Complete Guide to Visiting the Taj Mahal",
+    "excerpt": "Learn about the best visiting times, photography spots, nearby attractions, and the history of this iconic monument.",
+    "category": "Travel",
+    "date": "2026-03-13"
+  },
+  {
+    "id": 32,
+    "title": "Discover the Charm of Pondicherry's French Quarter",
+    "excerpt": "Walk through colorful streets, explore seaside promenades, and enjoy the unique blend of Indian and French culture.",
+    "category": "Destinations",
+    "date": "2026-03-15"
+  },
+  {
+    "id": 33,
+    "title": "Wildlife Photography Destinations in India",
+    "excerpt": "Explore national parks, forest reserves, and wildlife habitats perfect for capturing animals in their natural environment.",
+    "category": "Photography",
+    "date": "2026-03-17"
+  },
+  {
+    "id": 34,
+    "title": "How to Capture Stunning Travel Photos on Your Phone",
+    "excerpt": "Learn simple composition, lighting, framing, and editing techniques to create beautiful travel photographs.",
+    "category": "Photography",
+    "date": "2026-03-19"
+  },
+  {
+    "id": 35,
+    "title": "The Best Places to Experience Snowfall in India",
+    "excerpt": "Discover snowy mountain towns, winter landscapes, and scenic destinations for a memorable cold-weather getaway.",
+    "category": "Travel",
+    "date": "2026-03-21"
+  },
+  {
+    "id": 36,
+    "title": "Exploring the Spiritual Side of Ayodhya",
+    "excerpt": "Discover historic temples, peaceful riverfront views, cultural landmarks, and the city's spiritual traditions.",
+    "category": "Destinations",
+    "date": "2026-03-23"
+  },
+  {
+    "id": 37,
+    "title": "Unforgettable Experiences to Try in Dubai",
+    "excerpt": "Explore modern landmarks, desert adventures, traditional souks, and spectacular city skyline views.",
+    "category": "Travel",
+    "date": "2026-03-25"
+  },
+  {
+    "id": 38,
+    "title": "A Beginner's Guide to Trekking in the Himalayas",
+    "excerpt": "Learn about choosing a trail, packing essential gear, preparing physically, and staying safe on mountain treks.",
+    "category": "Adventure",
+    "date": "2026-03-27"
+  },
+  {
+    "id": 39,
+    "title": "The Most Beautiful Gardens to Visit in India",
+    "excerpt": "Discover colorful flower gardens, peaceful green spaces, and beautifully designed landscapes across the country.",
+    "category": "Destinations",
+    "date": "2026-03-29"
+  },
+  {
+    "id": 40,
+    "title": "Exploring the Local Culture of Varanasi Through Food",
+    "excerpt": "Discover traditional sweets, famous street snacks, local eateries, and the culinary heritage of the holy city.",
+    "category": "Food & Culture",
+    "date": "2026-03-31"
+  },
+  {
+    "id": 41,
+    "title": "Best Monsoon Destinations for Nature Lovers",
+    "excerpt": "Experience lush green valleys, mist-covered mountains, flowing waterfalls, and refreshing rainy-season landscapes.",
+    "category": "Travel",
+    "date": "2026-04-02"
+  },
+  {
+    "id": 42,
+    "title": "A Weekend Travel Guide to Prayagraj",
+    "excerpt": "Explore historic landmarks, riverside attractions, local markets, and the cultural heritage of Prayagraj.",
+    "category": "Travel",
+    "date": "2026-04-04"
+  },
+  {
+    "id": 43,
+    "title": "Amazing Places to Visit Before You Turn 30",
+    "excerpt": "Create unforgettable memories with a travel bucket list featuring mountains, beaches, historic cities, and adventures.",
+    "category": "Travel",
+    "date": "2026-04-06"
+  },
+  {
+    "id": 44,
+    "title": "Exploring the World's Most Colorful Streets",
+    "excerpt": "Discover vibrant neighborhoods, artistic buildings, painted houses, and lively streets around the world.",
+    "category": "Photography",
+    "date": "2026-04-08"
+  },
+  {
+    "id": 45,
+    "title": "How to Find Hidden Places While Traveling",
+    "excerpt": "Use local recommendations, walking routes, community guides, and careful research to discover places beyond tourist hotspots.",
+    "category": "Travel",
+    "date": "2026-04-10"
+  },
+  {
+    "id": 46,
+    "title": "A Journey Through the Tea Gardens of Darjeeling",
+    "excerpt": "Experience rolling green plantations, mountain scenery, charming cafes, and the rich traditions of Indian tea.",
+    "category": "Destinations",
+    "date": "2026-04-12"
+  },
+  {
+    "id": 47,
+    "title": "The Best Places for Stargazing in India",
+    "excerpt": "Find remote destinations with clear night skies, peaceful surroundings, and incredible views of the stars.",
+    "category": "Destinations",
+    "date": "2026-04-14"
+  },
+  {
+    "id": 48,
+    "title": "How to Plan the Perfect Three-Day Travel Itinerary",
+    "excerpt": "Organize attractions, transportation, meals, and activities to make the most of a short trip.",
+    "category": "Travel",
+    "date": "2026-04-16"
+  },
+  {
+    "id": 49,
+    "title": "Discovering the Beauty of India's Coastal Villages",
+    "excerpt": "Explore peaceful fishing villages, traditional coastal life, scenic beaches, and authentic local experiences.",
+    "category": "Food & Culture",
+    "date": "2026-04-18"
+  },
+  {
+    "id": 50,
+    "title": "50 Travel Experiences Everyone Should Have Once",
+    "excerpt": "From watching a mountain sunrise to exploring historic cities, discover inspiring experiences for your travel bucket list.",
+    "category": "Adventure",
+    "date": "2026-04-20"
+  }
+]
