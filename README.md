@@ -1,4 +1,3 @@
-﻿# akshat17-week1
 # MERN Stack Internship - Week 1 Submission 🚀
 
 This repository contains all the practice projects and assignments completed during **Week 1** of the **Full Stack Web Development (MERN)** Internship track on **Skill Nexis**.
@@ -11,13 +10,13 @@ The repository is organized into four main project folders representing the fund
 
 1. **`E-Commerce Website Landing Page/`**
    - **Description:** A modern, responsive landing page for an e-commerce platform.
-   - **Tech Used:** HTML5, CSS3, JavaScript.
+   - **Tech Used:** HTML5, CSS3.
    - **Features:** Navigation bar, hero section, product showcase cards, and layout design.
 
 2. **`Portfolio/`**
    - **Description:** A personal portfolio website showcasing developer skills, projects, and contact details.
-   - **Tech Used:** HTML5, CSS3, JavaScript.
-   - **Features:** Personal introduction, skill highlights, interactive navigation, and custom UI styling.
+   - **Tech Used:** HTML5, CSS3.
+   - **Features:** Personal introduction, skill highlights, structural layout, and custom UI styling.
 
 3. **`react-components/`**
    - **Description:** A collection of fundamental React components demonstrating modular frontend architecture.
@@ -37,7 +36,6 @@ The repository is organized into four main project folders representing the fund
 - **Key Concepts Learned:**
   - Semantic HTML & CSS Flexbox/Grid Layouts
   - Responsive Web Design Principles
-  - Modern JavaScript & DOM Manipulation
   - Component-based architecture in React (JSX, Props, State)
 
 ---
